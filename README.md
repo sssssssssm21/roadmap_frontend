@@ -1,2 +1,2 @@
 # roadmap_frontend
-here i will upload my projects for frontend roadmap
+https://roadmap.sh/projects/single-page-cv
